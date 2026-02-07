@@ -3,18 +3,6 @@
 
 **Live demo:** https://abois526.github.io/clothing-site-spa
 
-<!-- Table of Contents -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#description">Description</a></li>
-    <li><a href="#features">Features</a></li>
-    <li><a href="#repo-structure">Repo Structure</a></li>
-    <li><a href="#skills-highlighted">Skills Highlighted</a></li>
-    <li><a href="#credits">Credits</a></li>
-  </ol>
-</details>
-
 ## Description
 This site is a client-side Single Page Application that simulates a modern clothing storefront. The project has been built with HTML, Tailwind CSS, and JavaScript. The scripting has been completed without relying on any external libraries or frameworks. 
 
