@@ -1,5 +1,5 @@
 # Clothing Store SPA
-> A Single Page Application for a clothing store written with HTML, Tailwind CSS, and JS
+> A Single Page Application for a modern clothing storefront written with HTML, Tailwind CSS, and JS
 
 **Live demo:** https://abois526.github.io/clothing-site-spa
 
